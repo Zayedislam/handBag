@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/handBag/static/css/main.f37b22e1.css",
+    "main.js": "/handBag/static/js/main.94d222ae.js",
+    "index.html": "/handBag/index.html",
+    "main.f37b22e1.css.map": "/handBag/static/css/main.f37b22e1.css.map",
+    "main.94d222ae.js.map": "/handBag/static/js/main.94d222ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37b22e1.css",
+    "static/js/main.94d222ae.js"
+  ]
+}
